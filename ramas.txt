@@ -1,1 +1,1 @@
-Esto es para aprender como funcionan las ramas.
+Esto es para aprender como funcionan las ramas con un rebase.
