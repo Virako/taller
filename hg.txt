@@ -1,0 +1,2 @@
+Mercurial es mas feo que git.
+Los comandos son parecidos.
