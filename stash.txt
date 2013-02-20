@@ -2,3 +2,4 @@ Aprendiendo a usar el stash.
 El stash es muy bonito.
 Sirve para muchas cosas.
 Hemos visto como funciona el stash y me ha gustado, pero prefiero que no me interrumpan y hacer la tarea seguida.
+Vamos a ver como listar las stash existentes.
